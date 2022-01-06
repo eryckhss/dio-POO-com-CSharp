@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eryck/Área de Trabalho/Dev/DIO/POO com CSharp/ExemploPOO/ExemploPOO.csproj",
+      "projectUniqueName": "/home/eryck/Área de Trabalho/Dev/DIO/POO com CSharp/dio-POO-com-CSharp/ExemploPOO/ExemploPOO.csproj",
       "projectName": "ExemploPOO",
-      "projectPath": "/home/eryck/Área de Trabalho/Dev/DIO/POO com CSharp/ExemploPOO/ExemploPOO.csproj",
+      "projectPath": "/home/eryck/Área de Trabalho/Dev/DIO/POO com CSharp/dio-POO-com-CSharp/ExemploPOO/ExemploPOO.csproj",
       "packagesPath": "/home/eryck/.nuget/packages/",
-      "outputPath": "/home/eryck/Área de Trabalho/Dev/DIO/POO com CSharp/ExemploPOO/obj/",
+      "outputPath": "/home/eryck/Área de Trabalho/Dev/DIO/POO com CSharp/dio-POO-com-CSharp/ExemploPOO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eryck/.nuget/NuGet/NuGet.Config"
